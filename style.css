@@ -1,0 +1,21 @@
+﻿h1 {
+    padding: 40px;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    border: 10px solid white;
+    width: 50%;
+    background-color: efeee7;
+    color: black;
+}
+
+body, header {
+    background: #868383;
+}
+
+#container {
+    width: 1024px;
+    color: white;
+}
