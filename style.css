@@ -1,21 +1,34 @@
 ﻿h1 {
-    padding: 40px;
+    padding: 30px;
     margin: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 18px;
-    line-height: 150%;
-    text-align: center;
-    border: 10px solid white;
+    line-height: 50%;
+    border: 5px solid white;
     width: 50%;
     background-color: efeee7;
-    color: black;
+    color: grey;
+    text-align:right;
 }
 
 body, header {
     background: #868383;
+    text-align: center;
 }
 
-#container {
-    width: 1024px;
-    color: white;
+#big_wrapper {
+    width: 1000px;
+    margin: 15px auto;
+}
+
+#top-header {
+    background: white;
+    border: 1px solid white;
+    padding: 2.5px;
+    text-align: center;
+}
+
+#top-menu {
+    background: white;
+    text-align: center;
 }
