@@ -36,8 +36,28 @@ body, header {
 
 #top-aside {
     background: white;
-    width: 55%;
+    width: 50%;
     float: right;
     height: 300px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+#top-section {
+    background: white;
+    width: 48%;
+    float: left;
+    border-color: black;
+    float: left;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+#top-footer {
+    background: white;
+    width: 98%;
+    padding: 10px;
+    float: left;
+
 
 }
