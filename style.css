@@ -58,6 +58,34 @@ body, header {
     width: 98%;
     padding: 10px;
     float: left;
+}
 
+#article {
+    background: grey;
+    border: 1px solid white;
+    padding: 2.5px;
+    text-align: center;
+    height: 400px;
+    color: white;
+    float: left;
 
 }
+
+#container {
+    display: block;
+}
+
+li.main {
+    color:white;
+    background-color: grey;
+    width: 70%;
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:18px;
+    height: 80px;
+    overflow: auto;
+    clear: both;
+    display: block;
+
+}
+
