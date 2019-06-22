@@ -21,29 +21,31 @@ body, header {
 }
 
 #top-header {
-    background: white;
+    background-color: #ebebeb;
     border: 1px solid white;
     padding: 2.5px;
     text-align: center;
+
 }
 
 #top-menu {
-    background: white;
+    background: #ebebeb;
     text-align: center;
     margin-bottom: 20px;
 }
 
 #top-aside {
-    background: white;
+    background-color: #ebebeb;
     width: 50%;
     float: right;
     height: 300px;
     float: right;
     margin-bottom: 20px;
+    
 }
 
 #top-footer {
-    background: white;
+    background: #ebebeb;
     width: 98%;
     padding: 10px;
     float: left;
@@ -51,7 +53,7 @@ body, header {
 
 #wrap {
     color: grey;
-    background-color: white;
+    background-color: #ebebeb;
     float: left;
     width: 48%;
     height: 300px;
@@ -75,16 +77,17 @@ ul {
 }
 
 #headings {
-    border: 5px solid white;
+    border: 5px solid #ebebeb;
     padding: 12px;
     text-align: center;
-    background-color: white;
+    background-color: #ebebeb;
     color: grey;
     width:  310px;
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 10px;
     height: 10px;
     float: left;
+    border-color: #ebebeb;
 
 
 
@@ -94,11 +97,32 @@ ul {
 #two {
     border: 5px solid white;
     padding: 12px;
-    background-color: white;
+    background-color: #ebebeb;
     color: grey;
     width: 310px;
     text-align: center;
     height: 5px;
     float: left;
+    border-color: #ebebeb;
 
+}
+
+#special {
+    border-color: #ebebeb;
+}
+
+#spicy {
+    border-color: #ebebeb;
+}
+
+#hot {
+    border-color: #ebebeb;
+}
+
+#tamales {
+    border-color: #ebebeb;
+}
+
+#feet {
+    border-color: #ebebeb;
 }
